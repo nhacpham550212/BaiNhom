@@ -1,0 +1,15 @@
+E:\hoctap\Phat-Trien-Ung-Dung-Web\Nhom\QLBD\ModelBb\obj\Debug\ModelBb.csprojAssemblyReference.cache
+E:\hoctap\Phat-Trien-Ung-Dung-Web\Nhom\QLBD\ModelBb\bin\Debug\ModelBb.dll.config
+E:\hoctap\Phat-Trien-Ung-Dung-Web\Nhom\QLBD\ModelBb\bin\Debug\ModelBb.dll
+E:\hoctap\Phat-Trien-Ung-Dung-Web\Nhom\QLBD\ModelBb\bin\Debug\ModelBb.pdb
+E:\hoctap\Phat-Trien-Ung-Dung-Web\Nhom\QLBD\ModelBb\bin\Debug\EntityFramework.dll
+E:\hoctap\Phat-Trien-Ung-Dung-Web\Nhom\QLBD\ModelBb\bin\Debug\EntityFramework.SqlServer.dll
+E:\hoctap\Phat-Trien-Ung-Dung-Web\Nhom\QLBD\ModelBb\bin\Debug\PagedList.dll
+E:\hoctap\Phat-Trien-Ung-Dung-Web\Nhom\QLBD\ModelBb\bin\Debug\PagedList.Mvc.dll
+E:\hoctap\Phat-Trien-Ung-Dung-Web\Nhom\QLBD\ModelBb\bin\Debug\EntityFramework.xml
+E:\hoctap\Phat-Trien-Ung-Dung-Web\Nhom\QLBD\ModelBb\bin\Debug\EntityFramework.SqlServer.xml
+E:\hoctap\Phat-Trien-Ung-Dung-Web\Nhom\QLBD\ModelBb\bin\Debug\PagedList.xml
+E:\hoctap\Phat-Trien-Ung-Dung-Web\Nhom\QLBD\ModelBb\bin\Debug\PagedList.Mvc.xml
+E:\hoctap\Phat-Trien-Ung-Dung-Web\Nhom\QLBD\ModelBb\obj\Debug\ModelBb.csproj.CopyComplete
+E:\hoctap\Phat-Trien-Ung-Dung-Web\Nhom\QLBD\ModelBb\obj\Debug\ModelBb.dll
+E:\hoctap\Phat-Trien-Ung-Dung-Web\Nhom\QLBD\ModelBb\obj\Debug\ModelBb.pdb
